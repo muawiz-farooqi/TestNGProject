@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T05:05:31Z" name="Default suite" finished-at="2024-12-15T05:05:38Z" duration-ms="6506">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T05:05:31Z" name="Default test" finished-at="2024-12-15T05:05:38Z" duration-ms="6506">
+      <class name="com.testng.testcase.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@59402b8f]" started-at="2024-12-14T23:05:31Z" name="beforeMethod" finished-at="2024-12-14T23:05:33Z" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC03_rememberMe()[pri:0, instance:com.testng.testcase.LoginTest@59402b8f]" started-at="2024-12-14T23:05:33Z" name="TC03_rememberMe" finished-at="2024-12-14T23:05:38Z" duration-ms="4707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_rememberMe -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@59402b8f]" started-at="2024-12-14T23:05:38Z" name="teardown" finished-at="2024-12-14T23:05:38Z" duration-ms="244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03_rememberMe status=SUCCESS method=LoginTest.TC03_rememberMe()[pri:0, instance:com.testng.testcase.LoginTest@59402b8f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

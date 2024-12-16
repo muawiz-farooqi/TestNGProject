@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T06:30:05Z" name="Surefire suite" finished-at="2024-12-15T06:31:20Z" duration-ms="75764">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T06:30:05Z" name="Surefire test" finished-at="2024-12-15T06:31:20Z" duration-ms="75764">
+      <class name="com.testng.testcase.MenuDropDownTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:32Z" name="beforeMethod" finished-at="2024-12-15T00:30:33Z" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC05_selectUserMenu()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:33Z" name="TC05_selectUserMenu" finished-at="2024-12-15T00:30:36Z" duration-ms="2735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_selectUserMenu -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:36Z" name="teardown" finished-at="2024-12-15T00:30:36Z" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC05_selectUserMenu status=SUCCESS method=MenuDropDownTest.TC05_selectUserMenu()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:36Z" name="beforeMethod" finished-at="2024-12-15T00:30:37Z" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC06_editMyProfile()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:37Z" name="TC06_editMyProfile" finished-at="2024-12-15T00:30:57Z" duration-ms="19501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_editMyProfile -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:57Z" name="teardown" finished-at="2024-12-15T00:30:57Z" duration-ms="187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC06_editMyProfile status=SUCCESS method=MenuDropDownTest.TC06_editMyProfile()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:57Z" name="beforeMethod" finished-at="2024-12-15T00:30:58Z" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC07_editMySettings()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:30:58Z" name="TC07_editMySettings" finished-at="2024-12-15T00:31:11Z" duration-ms="12788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_editMySettings -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:11Z" name="teardown" finished-at="2024-12-15T00:31:11Z" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC07_editMySettings status=SUCCESS method=MenuDropDownTest.TC07_editMySettings()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:11Z" name="beforeMethod" finished-at="2024-12-15T00:31:12Z" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC08_devConsole()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:12Z" name="TC08_devConsole" finished-at="2024-12-15T00:31:16Z" duration-ms="3436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_devConsole -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:16Z" name="teardown" finished-at="2024-12-15T00:31:16Z" duration-ms="251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC08_devConsole status=SUCCESS method=MenuDropDownTest.TC08_devConsole()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:16Z" name="beforeMethod" finished-at="2024-12-15T00:31:17Z" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC09_logout()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:17Z" name="TC09_logout" finished-at="2024-12-15T00:31:20Z" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_logout -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c]" started-at="2024-12-15T00:31:20Z" name="teardown" finished-at="2024-12-15T00:31:20Z" duration-ms="183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC09_logout status=SUCCESS method=MenuDropDownTest.TC09_logout()[pri:0, instance:com.testng.testcase.MenuDropDownTest@28c4711c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.MenuDropDownTest -->
+      <class name="com.testng.testcase.AccountsTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.AccountsTest@6385cb26]" started-at="2024-12-15T00:30:05Z" name="beforeMethod" finished-at="2024-12-15T00:30:07Z" duration-ms="2092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC10_createAccount()[pri:0, instance:com.testng.testcase.AccountsTest@6385cb26]" started-at="2024-12-15T00:30:07Z" name="TC10_createAccount" finished-at="2024-12-15T00:30:14Z" duration-ms="7697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_createAccount -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.AccountsTest@6385cb26]" started-at="2024-12-15T00:30:14Z" name="teardown" finished-at="2024-12-15T00:30:15Z" duration-ms="213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC10_createAccount status=SUCCESS method=AccountsTest.TC10_createAccount()[pri:0, instance:com.testng.testcase.AccountsTest@6385cb26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.AccountsTest -->
+      <class name="com.testng.testcase.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:15Z" name="beforeMethod" finished-at="2024-12-15T00:30:16Z" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC01_loginErrorMessage()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:16Z" name="TC01_loginErrorMessage" finished-at="2024-12-15T00:30:16Z" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_loginErrorMessage -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:16Z" name="teardown" finished-at="2024-12-15T00:30:16Z" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01_loginErrorMessage status=SUCCESS method=LoginTest.TC01_loginErrorMessage()[pri:0, instance:com.testng.testcase.LoginTest@38364841] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:16Z" name="beforeMethod" finished-at="2024-12-15T00:30:17Z" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC02_validLogin()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:17Z" name="TC02_validLogin" finished-at="2024-12-15T00:30:19Z" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_validLogin -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:19Z" name="teardown" finished-at="2024-12-15T00:30:20Z" duration-ms="773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02_validLogin status=SUCCESS method=LoginTest.TC02_validLogin()[pri:0, instance:com.testng.testcase.LoginTest@38364841] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:20Z" name="beforeMethod" finished-at="2024-12-15T00:30:21Z" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC03_rememberMe()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:21Z" name="TC03_rememberMe" finished-at="2024-12-15T00:30:28Z" duration-ms="6730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_rememberMe -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:28Z" name="teardown" finished-at="2024-12-15T00:30:28Z" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03_rememberMe status=SUCCESS method=LoginTest.TC03_rememberMe()[pri:0, instance:com.testng.testcase.LoginTest@38364841] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:28Z" name="beforeMethod" finished-at="2024-12-15T00:30:30Z" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC04A_forgotPassword()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:30Z" name="TC04A_forgotPassword" finished-at="2024-12-15T00:30:30Z" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04A_forgotPassword -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:30Z" name="teardown" finished-at="2024-12-15T00:30:31Z" duration-ms="194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04A_forgotPassword status=SUCCESS method=LoginTest.TC04A_forgotPassword()[pri:0, instance:com.testng.testcase.LoginTest@38364841] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:31Z" name="beforeMethod" finished-at="2024-12-15T00:30:32Z" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC04B_validateLoginErrorMsg()[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:32Z" name="TC04B_validateLoginErrorMsg" finished-at="2024-12-15T00:30:32Z" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04B_validateLoginErrorMsg -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.testng.testcase.LoginTest@38364841]" started-at="2024-12-15T00:30:32Z" name="teardown" finished-at="2024-12-15T00:30:32Z" duration-ms="207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04B_validateLoginErrorMsg status=SUCCESS method=LoginTest.TC04B_validateLoginErrorMsg()[pri:0, instance:com.testng.testcase.LoginTest@38364841] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

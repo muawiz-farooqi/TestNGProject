@@ -1,0 +1,8 @@
+com\testng\pages\HomePage.class
+com\testng\pages\LoginPage.class
+com\testng\testcase\LoginTest.class
+com\testng\testcase\AccountsTest.class
+com\testng\pages\ProfilePage.class
+com\testng\testcase\MenuDropDownTest.class
+com\testng\pages\AccountsPage.class
+com\testng\pages\SettingsPage.class

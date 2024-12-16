@@ -1,0 +1,5 @@
+com\testng\base\BaseTest.class
+com\testng\utilities\ScreenshotUtilities.class
+com\testng\utilities\PropertiesReader.class
+com\testng\utilities\ExcelFileReader.class
+com\testng\base\BasePage.class

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Automation]" guice-stage="DEVELOPMENT">
+  <test parallel="none" name="Login(failed)">
+    <classes>
+      <class name="com.testng.testcase.MenuDropDownTest">
+        <methods>
+          <include name="selectMyProfile"/>
+          <include name="beforeMethod"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.testng.testcase.MenuDropDownTest -->
+      <class name="com.testng.testcase.LoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.testng.testcase.LoginTest -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [Automation] -->
